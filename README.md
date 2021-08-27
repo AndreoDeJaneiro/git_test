@@ -1,1 +1,1 @@
-This is Andreo's first got project
+This is Andreo's first git project
